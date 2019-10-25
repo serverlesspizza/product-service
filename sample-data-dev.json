@@ -1,0 +1,104 @@
+{
+  "dev-products": [
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Classic margherita"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/classic_margherita_pizza.jpg"},
+          "price": {"N":"5.99"},
+          "productId": {"S":"56745884565475467"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Farmhouse"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/farmhouse_pizza.jpg"},
+          "price": {"N":"6.99"},
+          "productId": {"S":"786867867865856785"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Hawaiian"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/hawaiian_pizza.jpg"},
+          "price": {"N":"6.99"},
+          "productId": {"S":"43564536345635634566"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"BBQ Chicken"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/bbq_chicken_pizza.jpg"},
+          "price": {"N":"6.99"},
+          "productId": {"S":"67657854686965747568"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Meat feast"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/meat_feast_pizza.jpg"},
+          "price": {"N":"7.99"},
+          "productId": {"S":"67856773456236548685"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Veggie special"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/veggie_special_pizza.jpg"},
+          "price": {"N":"5.99"},
+          "productId": {"S":"678546734632363"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Mexican fajita"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/mexican_fajita_pizza.jpg"},
+          "price": {"N":"7.99"},
+          "productId": {"S":"2532463467456754"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Tandoori hot"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/tandoori_hot_pizza.jpg"},
+          "price": {"N":"8.99"},
+          "productId": {"S":"4563464563445634564"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Loaded pepperoni"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/loaded_pepperoni_pizza.jpg"},
+          "price": {"N":"6.99"},
+          "productId": {"S":"45784566346347545456"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "description": {"S":"Tuna and sweetcorn"},
+          "imagePath": {"S":"https://static-dev.serverlesspizza.com/tuna_and_sweetcorn_pizza.jpg"},
+          "price": {"N":"5.99"},
+          "productId": {"S":"578436574576342635"}
+        }
+      }
+    }
+  ]
+}
